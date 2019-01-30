@@ -18,7 +18,7 @@ curl https://raw.githubusercontent.com/Leptune/path_manage/master/install.sh | s
 ```
 rm -rf ~/.path_manage_leptune
 
-# 编辑~/.bashrc, 把【source ~/.path_manage_leptune/.bashrc】删掉，然后重新登录即可
+# 编辑~/.bashrc, 把【source ~/.path_manage_leptune/bashrc】删掉，然后重新登录即可
 
 ```
 
