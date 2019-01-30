@@ -2,9 +2,7 @@
 
 rm -rf ~/.path_manage_leptune
 git clone https://github.com/Leptune/path_manage.git ~/.path_manage_leptune --depth=1
-echo 'source ~/.path_manage_leptune/bashrc' >> ~/.bashrc
-source ~/.bashrc 
-source ~/.bashrc 
+echo 'source ~/.path_manage_leptune/bashrc' >> ~/.bashrc 
 echo '
 --------------------------------------------------------
 恭喜您，安装成功！！
