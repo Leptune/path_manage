@@ -10,7 +10,7 @@
 # ubuntu用户
 # sudo apt-get install php
 
-curl https://raw.githubusercontent.com/Leptune/path_manage/master/install.sh | sh
+curl https://raw.githubusercontent.com/Leptune/path_manage/master/install.sh | sh && source ~/.bashrc
 
 ```
 
