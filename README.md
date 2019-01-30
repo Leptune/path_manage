@@ -20,4 +20,4 @@ curl https://raw.githubusercontent.com/Leptune/path_manage/master/install.sh | s
 >- `pmg 别名`: 跳转到别名所对应的路径
 >- `pmd 别名`: 删除该别名
 >- `pmr 旧别名 新别名`: 重命名
-
+>- `pmh`: 显示帮助信息
