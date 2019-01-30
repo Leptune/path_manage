@@ -2,6 +2,7 @@ alias pma='php ~/.path_manage_leptune/add.php'
 alias pmr='php ~/.path_manage_leptune/rename.php'
 alias pmd='php ~/.path_manage_leptune/del.php'
 alias pml='php ~/.path_manage_leptune/list.php'
+alias pmh='sh ~/.path_manage_leptune/help.sh'
 function pmg() {
     p=`php  ~/.path_manage_leptune/go.php $1`
     if [[ $? == 0 ]]; then
